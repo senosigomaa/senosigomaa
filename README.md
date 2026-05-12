@@ -142,6 +142,10 @@ https://www.linkedin.com/posts/senosi-gomaa-b96579249_flutter-mobiledevelopment-
 
 ---
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=senosigomaa&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
+
 ## 🌍 Connect With Me
 
 📧 Email:
