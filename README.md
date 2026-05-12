@@ -1,6 +1,15 @@
-<body>
-    <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Senosi+Gomaa❤️" />
+<h1 align="center">
+  Hi 👋, I'm <span style="color:#58A6FF;">Senosi Gomaa</span>
+</h1>
+
+<h3 align="center">
+  Flutter Mobile Developer
+</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Building+Modern+Mobile+Applications;Clean+Architecture+Enthusiast;Firebase+%7C+REST+APIs+%7C+UI%2FUX;Passionate+About+Scalable+Apps;Always+Learning+New+Technologies" />
+</p>
+</p>
 </p>
 </h1>
 <h3 align="center">
