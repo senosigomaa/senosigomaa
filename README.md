@@ -1,7 +1,7 @@
-<h1 align="center">
-  <marquee direction="right">
-    Hi 👋, I'm Senosi Gomaa❤️
-  </marquee>
+<body>
+    <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Senosi+Gomaa❤️" />
+</p>
 </h1>
 <h3 align="center">
 Flutter Mobile Developer • Building Modern Mobile Applications
