@@ -1,9 +1,9 @@
 <h1 align="center">
-  Hi 👋, I'm <span style="color:#58A6FF;">Senosi Gomaa</span>
+  Hi 👋, I'm <span style="color:#58A6FF;">Senosi Gomaa🔥❤️</span>
 </h1>
 
 <h3 align="center">
-  Flutter Mobile Developer
+  Flutter Mobile Developer💻🔥
 </h3>
 
 <p align="center">
