@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Senosi Gomaa</h1>
+<h1 align="center">Hi 👋, I'm Senosi Gomaa❤️</h1>
 
 <h3 align="center">
 Flutter Mobile Developer • Building Modern Mobile Applications
@@ -10,7 +10,7 @@ Passionate Flutter developer from Egypt 🇪🇬 focused on building scalable, r
 
 ---
 
-## 🚀 About Me
+  ## About Me
 
 - 📱 Flutter Mobile Developer
 - 🎨 Specialized in Modern UI/UX
@@ -44,56 +44,56 @@ Passionate Flutter developer from Egypt 🇪🇬 focused on building scalable, r
 ### Tools
 - Git & GitHub
 - Postman
+- Swagger
 - Figma
 - VS Code
+- WindSurf
+- Android Studio
 
 ---
 
-## 📱 Real Client Projects
+# 📱 Real Client Projects
 
 ### 📖 Moqraa Flutter App
 Quran learning and memorization platform designed for remote Islamic education under qualified teachers supervision.
 
 ### Features:
-- Multi-role authentication system (Student / Teacher)
+- Multi-role authentication system
 - Quran حلقات & sections management
 - Audio recording uploads & evaluations
 - Join requests workflow
 - Waiting room system
 - Student progress tracking
 - Statistics & profiles
-- Password recovery system
-
-🔗 GitHub:
-https://github.com/senosigomaa/moqraa-flutter-app
 
 ---
 
 ### 🕌 Mosque Services Platform
-Location-based platform connecting users with mosque-related and local community services.
+Location-based platform connecting users with mosque-related and community services.
 
 ### Features:
-- Location-based service discovery
 - Smart categorized search
 - Full request management flow
-- Real-time notifications
 - Wallet & transactions system
+- Real-time notifications
 - Offers & rewards system
-- Service provider profiles
-- Branches & map integration
+- Provider profiles & map integration
 
-🔗 GitHub:
-https://github.com/senosigomaa/mosque_services
+🔗 LinkedIn Showcase:
+https://www.linkedin.com/posts/senosi-gomaa-b96579249_flutter-mobiledevelopment-softwareengineer-ugcPost-7445975006418743296-66Ai
 
 ---
 
-## 🎨 Training & UI Projects
+## 🎨 UI & Concept Projects
 
 ### 🚀 Space Explorer
-Modern Flutter UI application with smooth animations and responsive design inspired by space exploration.
+Modern Flutter UI application inspired by space exploration with smooth animations and responsive design.
 
 🔗 GitHub:
 https://github.com/senosigomaa/space_explorer
+
+🔗 LinkedIn Showcase:
+https://www.linkedin.com/posts/senosi-gomaa-b96579249_opentowork-flutter-dart-ugcPost-7458539137814396928-4PPy
 
 ---
 
@@ -108,13 +108,19 @@ Islamic mobile application including:
 🔗 GitHub:
 https://github.com/senosigomaa/islami
 
+🔗 LinkedIn Showcase:
+https://www.linkedin.com/posts/senosi-gomaa-b96579249_ive-been-working-recently-on-an-app-called-ugcPost-7454268414908416002-oRlF
+
 ---
 
 ### 🎉 Event Planning App
-Modern event & invitation management application.
+Modern event & invitation management mobile application.
 
 🔗 GitHub:
 https://github.com/senosigomaa/event_planning
+
+🔗 LinkedIn Showcase:
+https://www.linkedin.com/posts/senosi-gomaa-b96579249_flutter-mobiledevelopment-firebase-ugcPost-7454914662485262336-YuK4
 
 ---
 
@@ -146,3 +152,6 @@ https://github.com/senosigomaa
 
 𝕏 X.com:
 https://x.com/senosigomaa1
+
+💼 LinkedIn:
+https://www.linkedin.com/in/senosi-gomaa-b96579249/
