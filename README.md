@@ -5,6 +5,12 @@ Flutter Mobile Developer • Building Modern Mobile Applications
 </h3>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Flutter-Developer-blue?style=for-the-badge&logo=flutter" />
+  <img src="https://img.shields.io/badge/Dart-Programming-blue?style=for-the-badge&logo=dart" />
+  <img src="https://img.shields.io/badge/Firebase-Backend-orange?style=for-the-badge&logo=firebase" />
+</p>
+
+<p align="center">
 Passionate Flutter developer from Egypt 🇪🇬 focused on building scalable, responsive, and production-ready mobile applications using Flutter & Dart.
 </p>
 
