@@ -1,5 +1,8 @@
-<h1 align="center">Hi 👋, I'm Senosi Gomaa❤️</h1>
-
+<h1 align="center">
+  <marquee direction="right">
+    Hi 👋, I'm Senosi Gomaa❤️
+  </marquee>
+</h1>
 <h3 align="center">
 Flutter Mobile Developer • Building Modern Mobile Applications
 </h3>
