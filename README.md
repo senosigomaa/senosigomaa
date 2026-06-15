@@ -83,7 +83,9 @@ Quran learning and memorization platform designed for remote Islamic education u
 - Waiting room system
 - Student progress tracking
 - Statistics & profiles
-
+  
+🔗 LinkedIn Showcase:
+https://yoursys.tech/ar/projects
 ---
 
 ### 🕌 Mosque Services Platform
@@ -164,7 +166,7 @@ https://www.linkedin.com/posts/senosi-gomaa-b96579249_flutter-mobiledevelopment-
 senosigomaa1@gmail.com
 
 🌐 Portfolio:
-https://smartleadtech.com/
+https://yoursys.tech/ar/projects
 
 💬 WhatsApp:
 https://wa.me/201222136361
